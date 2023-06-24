@@ -1,4 +1,4 @@
-# Bash Scripts
+# Dialog Menus
 
 This repository contains two bash scripts: `main.sh` and `system_info.sh`. These scripts provide various functionalities and system information.
 

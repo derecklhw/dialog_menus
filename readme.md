@@ -44,9 +44,9 @@ To run these scripts, you need a Linux environment with Bash and the `dialog` co
 
 To run the main.sh script, execute the following command in the terminal:
 
-```bash
-bash main.sh
-```
+  ```bash
+  bash main.sh
+  ```
 
 This will start the script, and you can navigate through the menus using the arrow keys or by typing the corresponding number key.
 
@@ -54,6 +54,6 @@ The `system_info.sh` script is automatically made in an executable by main.sh wh
 
 To run the `system_info.sh` script directly, execute the following command in the terminal:
 
-```bash
-./system_info.sh
-```
+  ```bash
+  ./system_info.sh
+  ```

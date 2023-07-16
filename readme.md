@@ -2,6 +2,10 @@
 
 This repository contains two bash scripts: `main.sh` and `system_info.sh`. These scripts provide various functionalities and system information.
 
+![Home](images/home.png)
+
+![System Info](images/system_info.png)
+
 ## `main.sh`
 
 The `main.sh` script displays menus on the screen and allows the user to perform different tasks. It makes use of the `dialog` command to create interactive menus and dialog boxes. Here are the main functionalities of the script:

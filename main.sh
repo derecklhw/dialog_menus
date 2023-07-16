@@ -278,6 +278,8 @@ case $menuitem in
 		delete_selection
 	;;
 	"System Info")
+		echo "System Info script ready Run it!" >$OUTPUT
+		display_output 6 60 "System Info"
 		chmod u+x C2.sh # made the file executable for your user
 		source C2.sh # call another bash script file with the source command 
 	;;
